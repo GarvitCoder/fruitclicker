@@ -17,8 +17,8 @@ Buttons
 	*FruitButton
 		name:FruitButton
 		desc:Click to get Fruit
-		on click: yield 1 Fruit
-		class: bigButton
+		on click:yield 1 Fruit
+		class:bigButton
 		show clicks
 		icon:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqyhSzKWawYBdCInUlQLj4g5h3fP6WBgCaA&uspq=CAU
 		no text
